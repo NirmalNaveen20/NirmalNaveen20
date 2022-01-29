@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirmal Naveen</h1>
+<h1 align="center">Hey there, I'm Nirmal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">DevOPs Engineer / Cloud Engineer</h3>
 
 - 👨‍🎓 **2nd year undergarduate student**
