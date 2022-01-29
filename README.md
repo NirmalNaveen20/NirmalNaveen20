@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Nirmal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">DevOPs Engineer / Cloud Engineer</h3>
 
-<img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
+<img width="40%" align="right" alt="Github Header" src="coding_2.gif" />
 
 - 👨‍🎓 **2nd year undergarduate student**
 
