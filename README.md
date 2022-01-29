@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nirmal-naveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal-naveen" height="30" width="40" /></a>
-<a href="https://fb.com/nirmalnaveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirmalnaveen" height="30" width="40" /></a>
-<a href="https://instagram.com/nirmal_naveen__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_naveen__" height="30" width="40" /></a>
+<a href="https://fb.com/nirmal-naveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirmal-naveen" height="30" width="40" /></a>
+<a href="https://instagram.com/nirmal_naveen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_naveen_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
