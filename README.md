@@ -10,8 +10,6 @@
 - 📫 How to reach me [nirmalnaveenmsi@gmail.com](nirmalnaveenmsi@gmail.com)
 
 - 💬 Ask me about **Web Development / App Development / Cloud Computing**
-
-## Hi 👋, I'm Nirmal Naveen  
   
 
 <a href="https://github.com/NirmalNaveen20" target="_blank">
@@ -28,8 +26,6 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
   
   
@@ -37,29 +33,7 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 👨‍🎓 2nd year undergarduate student  
-  
-
-- 🌱 I’m currently learning Java  
-  
-
-- ❓ Ask me about anything related to Web Development / App Development / Cloud Computing  
-  
-
-- 📫 How to reach me nirmalnaveenmsi@gmail.com  
-
-
-</td><td valign="top" width="50%">
-
-  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
