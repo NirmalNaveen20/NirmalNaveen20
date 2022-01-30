@@ -35,9 +35,9 @@
 
 ## 📈 GitHub Stat's
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalNaveen20&layout=compact&heigt=&theme=algolia">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalNaveen20&layout=compact&heigt=&theme=algolia">
 </a>
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirmalNaveen20&count_private=true&show_icons=true&theme=algolia">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NirmalNaveen20&count_private=true&show_icons=true&theme=algolia">
 </a>
 
