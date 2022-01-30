@@ -7,9 +7,9 @@
 
 - 🎓  I'm currently studying Software Engineering at University of <br>Sri Lanka Institute Of Information Technology(SLIIT).
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
-- 📫 How to reach me [nirmalnaveenmsi@gmail.com](nirmalnaveenmsi@gmail.com)
+- ✉️ How to reach me [nirmalnaveenmsi@gmail.com](nirmalnaveenmsi@gmail.com)
 
 - 💬 Ask me about **Web Development / App Development / Cloud Computing**
 
