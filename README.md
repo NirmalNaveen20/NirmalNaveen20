@@ -33,5 +33,15 @@
 <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="60" height="60">
 
 
+## 📈 GitHub Stat's
 
+[![wakatime](https://wakatime.com/badge/user/e7083d89-84d4-4c69-96bc-e43e98d38d80.svg)](https://wakatime.com/@e7083d89-84d4-4c69-96bc-e43e98d38d80)
+
+
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalNaveen20&layout=compact&heigt=&theme=algolia">
+</a>
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirmalNaveen20&count_private=true&show_icons=true&theme=algolia">
+</a>
 
