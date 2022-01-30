@@ -45,4 +45,3 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Cloud+Engineer;#Tlaks+about+DevOps;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-I'm a Filipino freelance software engineer, opensource developer advocate, cybersecurity researcher, and technopreneur from the Philippines. Kumusta ka!
