@@ -31,7 +31,9 @@
 
 ## **Badges🥇**<br>
 <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="60" height="60">
-  
+
+## Have a Smiley Day...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
