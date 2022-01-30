@@ -5,7 +5,7 @@
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
-- 🎓  I'm currently studying Software Engineering at the Sri Lanka Institute Of Information Technology(SLIIT).
+- 🎓  I'm currently studying Software Engineering at University of Sri Lanka Institute Of Information Technology(SLIIT).
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
