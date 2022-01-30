@@ -45,4 +45,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Cloud+Engineer;#Tlaks+about+DevOps;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=NirmalNaveen20" alt="VatanaChhorn" />
+<img align="right" src="https://komarev.com/ghpvc/?username=NirmalNaveen20" alt="VatanaChhorn" />
