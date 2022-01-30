@@ -19,8 +19,6 @@
 
 ## **Badges🥇**<br>
 <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="60" height="60">
-<img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
-<img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
   
 
 
