@@ -6,8 +6,6 @@
 
 - 🎓  I'm currently studying Software Engineering at the Sri Lanka Institute Of Information Technology(SLIIT).
 
-- 🌱 I’m currently learning **Java**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me [nirmalnaveenmsi@gmail.com](nirmalnaveenmsi@gmail.com)
