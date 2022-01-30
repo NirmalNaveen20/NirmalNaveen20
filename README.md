@@ -2,7 +2,8 @@
 <h3 align="center">DevOPs Engineer / Cloud Engineer</h3>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
-- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
 - 🎓  I'm currently studying Software Engineering at the Sri Lanka Institute Of Information Technology(SLIIT).
 
