@@ -48,4 +48,4 @@
 
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=NirmalNaveen20" alt="VatanaChhorn" />
+<img align="left" src="https://komarev.com/ghpvc/?username=NirmalNaveen20" alt="VatanaChhorn" />
