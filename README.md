@@ -1,7 +1,8 @@
 <h1 align="center">Hey there, I'm Nirmal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<!--<h3 align="center">DevOPs Engineer / Cloud Engineer</h3>-->
+<h3 align="center">DevOPs Engineer / Cloud Engineer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Talks+About+Software+Engineering;Talks+About+Cloud+Engineering;Tlaks+about+DevOps;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Talks+About+Software+Engineering;Talks+About+Cloud+Engineering;Tlaks+about+DevOps;Nice+to+meet+you...)](https://git.io/typing-svg) -->
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
