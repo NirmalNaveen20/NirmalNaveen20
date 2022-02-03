@@ -37,9 +37,9 @@
   <img src="Badges/googleitsupport.png" alt="googleitsupport" width="80" height="80">
   <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80">
   <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80">
-  <img src="Badges/gcloudresources.png" alt="gcloudresources" width="80" height="90">
-  <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="80" height="90">
-  <img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="80" height="90">
+  <img src="Badges/gcloudresources.png" alt="gcloudresources" width="90" height="80">
+  <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="90" height="80">
+  <img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="90" height="80">
 </p>
 
 <!-- GitHub stats section -->
