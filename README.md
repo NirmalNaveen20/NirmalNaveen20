@@ -34,7 +34,7 @@
 
 ## **🥇Badges**<br>
 <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="70" height="70">
-<img src="Badges/AWS-CloudPractitioner.png.png" alt="AWS-CloudPractitioner" width="70" height="70">
+<img src="Badges/googleitsupport.png.png" alt="googleitsupport" width="70" height="70">
 
 <!-- GitHub stats section -->
 
