@@ -56,5 +56,5 @@
 
 
 
-<img align="bottom-left" src="https://komarev.com/ghpvc/?username=NirmalNaveen20" alt="VatanaChhorn" />
+<img align="top-left" src="https://komarev.com/ghpvc/?username=NirmalNaveen20" alt="VatanaChhorn" />
 <img width="25%" align="right" alt="Github Header" src="Images/cloud.gif" />
