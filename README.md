@@ -12,7 +12,7 @@
 
 - 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
-- ✉️ How to reach me [nirmalnaveenmsi@gmail.com](nirmalnaveenmsi@gmail.com)
+- ✉️ How to reach me [nirmalnaveenmsi@gmail.com](E-Mail)
 
 - 💬 Ask me about **Web Development / App Development / Cloud Computing**
 
