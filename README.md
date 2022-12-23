@@ -55,5 +55,5 @@
 
 
 <img width="25%" align="right" alt="Github Header" src="Images/cloud.gif" />
-<img width="40%" align="right" alt="Github Header" src="Images/ezgif.com-gif-maker.gif" />
+<img width="40%" align="right" alt="Github Header" src="Images/ezgif.com-gif-maker(1).gif" />
 <img width="30%" align="right" alt="Github Header" src="Images/aws.png" />
