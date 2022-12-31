@@ -44,13 +44,13 @@
   <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80">
   
   <!--Create and Manage Cloud Resources -->
-  <a href="https://partner.cloudskillsboost.google/public_profiles/9ccefd27-0a1e-4ae0-9b26-7145841104f6/badges/1633505" target="_blank" rel="noreferrer"> <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85"> </a>
+  <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85">
   
   <!--Perform Foundational Infrastructure Tasks in Google Cloud -->
-  <a href="https://partner.cloudskillsboost.google/public_profiles/9ccefd27-0a1e-4ae0-9b26-7145841104f6/badges/1658471" target="_blank" rel="noreferrer"><img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85"> </a>
+  <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85">
   
   <!--Set Up and Configure a Cloud Environment in Google Cloud -->
-  <a href="https://partner.cloudskillsboost.google/public_profiles/9ccefd27-0a1e-4ae0-9b26-7145841104f6/badges/1699089" target="_blank" rel="noreferrer"><img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="105" height="85"> </a>
+  <img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="105" height="85">
   
 </p>
 
