@@ -35,7 +35,7 @@
 ## **🥇Badges**<br>
 <p>
   <img src="Badges/googleitsupport.png" alt="googleitsupport" width="80" height="80">
-  <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80">
+  <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80" href="https://www.credly.com/earner/earned/badge/81997ca8-f1a4-4a4a-830e-35854bde028e">
   <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80">
   <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85">
   <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85">
