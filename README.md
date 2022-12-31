@@ -34,24 +34,12 @@
 
 ## **🥇Badges**<br>
 <p>
-  <!--GOOGLE IT SUPPORT-->
   <img src="Badges/googleitsupport.png" alt="googleitsupport" width="80" height="80">
-  
-  <!--AZURE FUNDAMENTALS-->
   <a href="https://www.credly.com/earner/earned/badge/81997ca8-f1a4-4a4a-830e-35854bde028e" target="_blank" rel="noreferrer"> <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80"> </a>
-  
-  <!--AWS-->
   <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80">
-  
-  <!--Create and Manage Cloud Resources -->
   <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85">
-  
-  <!--Perform Foundational Infrastructure Tasks in Google Cloud -->
   <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85">
-  
-  <!--Set Up and Configure a Cloud Environment in Google Cloud -->
   <img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="105" height="85">
-  
 </p>
 
 <!-- GitHub stats section -->
