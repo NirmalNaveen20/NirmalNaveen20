@@ -34,12 +34,24 @@
 
 ## **🥇Badges**<br>
 <p>
+  <!--GOOGLE IT SUPPORT-->
   <img src="Badges/googleitsupport.png" alt="googleitsupport" width="80" height="80">
+  
+  <!--AZURE FUNDAMENTALS-->
   <a href="https://www.credly.com/earner/earned/badge/81997ca8-f1a4-4a4a-830e-35854bde028e" target="_blank" rel="noreferrer"> <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80"> </a>
+  
+  <!--AWS-->
   <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80">
-  <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85">
-  <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85">
-  <img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="105" height="85">
+  
+  <!--Create and Manage Cloud Resources -->
+  <a href="https://partner.cloudskillsboost.google/public_profiles/9ccefd27-0a1e-4ae0-9b26-7145841104f6/badges/1633505" target="_blank" rel="noreferrer"> <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85"> </a>
+  
+  <!--Perform Foundational Infrastructure Tasks in Google Cloud -->
+  <a href="https://partner.cloudskillsboost.google/public_profiles/9ccefd27-0a1e-4ae0-9b26-7145841104f6/badges/1658471" target="_blank" rel="noreferrer"><img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85"> </a>
+  
+  <!--Set Up and Configure a Cloud Environment in Google Cloud -->
+  <a href="https://partner.cloudskillsboost.google/public_profiles/9ccefd27-0a1e-4ae0-9b26-7145841104f6/badges/1699089" target="_blank" rel="noreferrer"><img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="105" height="85"> </a>
+  
 </p>
 
 <!-- GitHub stats section -->
