@@ -48,8 +48,9 @@
 
 <!-- Bassed on: https://github.com/NirmalNaveen20/ -->
 <p align="center">
-        <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&show_icons=true&count_private=true" height="192px" /></a>
-        <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NirmalNaveen20&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" height="192px" /></a>
+  <br/>
+        <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&show_icons=true&count_private=true" height="192px" /></a>
+        <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NirmalNaveen20&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" height="192px" /></a>
 </p>
 
 <img width="25%" align="right" alt="Github Header" src="Images/cloud.gif" />
