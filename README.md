@@ -49,7 +49,7 @@
 <!-- Bassed on: https://github.com/NirmalNaveen20/ -->
 <p align="center">
   <br/>
-  <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&&show_icons=true&theme=dark height="192px"/></a>
+  <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&&show_icons=true&theme=dark" height="192px"/></a>
   <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalNaveen20&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
 </p>
 
