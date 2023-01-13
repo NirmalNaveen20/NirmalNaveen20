@@ -47,10 +47,13 @@
 ## 📊 Github stats
 
 <!-- Bassed on: https://github.com/NirmalNaveen20/ -->
-<p align="center">
-  <br/>
-  <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&&show_icons=true&theme=dark" height="192px"/></a>
-  <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NirmalNaveen20" height="auto"/></a>
-</p>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" /></td>
+    </tr>   
+  </table>
+</center>
 
 <img width="25%" align="right" alt="Github Header" src="Images/cloud.gif" />
