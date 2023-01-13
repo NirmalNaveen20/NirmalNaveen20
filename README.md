@@ -50,7 +50,7 @@
 <p align="center">
   <br/>
   <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&&show_icons=true&theme=dark" height="192px"/></a>
-  <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalNaveen20" height="192px"/></a>
+  <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NirmalNaveen20" height="192px"/></a>
 </p>
 
 <img width="25%" align="right" alt="Github Header" src="Images/cloud.gif" />
