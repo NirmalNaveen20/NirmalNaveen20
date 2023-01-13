@@ -49,8 +49,8 @@
 <!-- Bassed on: https://github.com/NirmalNaveen20/ -->
 <p align="center">
   <br/>
-        <img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&show_icons=true&count_private=true" />
-        <img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NirmalNaveen20&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" />
+        <img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&show_icons=true&count_private=true" height="192px" />
+        <img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NirmalNaveen20&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" height="192px" />
 </p>
 
 <img width="25%" align="right" alt="Github Header" src="Images/cloud.gif" />
