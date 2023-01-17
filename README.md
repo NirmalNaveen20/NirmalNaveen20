@@ -8,7 +8,7 @@
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
-- 🎓  I'm currently studying Information Technology at University of <br>Sri Lanka Institute Of Information Technology(SLIIT).
+- 🎓  I'm currently studying Information Technology at University of <br>Sri Lanka Institute of Information Technology(SLIIT).
 
 - 🌱  I'm on track for learning more about Artificial Intelligence, Application Development, and Cloud Architecture.
 
