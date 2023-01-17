@@ -14,7 +14,7 @@
 
 - ✉️ How to reach me <a href="https://www.nirmalnaveen.me" target="_blank">Nirmal Naveen</a>
 
-- 💬 Ask me about **Web Development / App Development / Cloud Computing**
+- 💬 Ask me about **Web Development / Artificial Intelligence / Cloud Computing**
 
 ## Connect with me  
 <div align="center">
