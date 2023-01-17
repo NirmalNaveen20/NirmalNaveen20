@@ -8,11 +8,11 @@
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
-- 🎓  I'm currently studying Software Engineering at University of <br>Sri Lanka Institute Of Information Technology(SLIIT).
+- 🎓  I'm currently studying Information Technology at University of <br>Sri Lanka Institute Of Information Technology(SLIIT).
 
-- 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+- 🌱  I'm on track for learning more about Artificial Intelligence, Application Development, and Cloud Architecture.
 
-- ✉️ How to reach me [nirmalnaveenmsi@gmail.com](nirmalnaveenmsi@gmail.com)
+- ✉️ How to reach me <a href="www.nirmalnaveen.me">Nirmal Naveen</a>
 
 - 💬 Ask me about **Web Development / App Development / Cloud Computing**
 
