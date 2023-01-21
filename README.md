@@ -36,7 +36,7 @@
 <p>
   <a href="https://www.credly.com/earner/earned/badge/dc28650a-a006-430d-b26a-dde2a7c64aee" target="_blank"> <img src="Badges/googleitsupport.png" alt="googleitsupport" width="80" height="80"> </a>
   <a href="https://www.credly.com/earner/earned/badge/81997ca8-f1a4-4a4a-830e-35854bde028e" target="_blank" rel="noreferrer"> <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80"> </a>
-  <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80">
+  <a href="https://www.credly.com/earner/earned/badge/cee27b6d-df3d-4df7-9fa1-ee491d7a3e99" target="_blank"> <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80"> </a>
   <img src="Badges/aws-cloud-quest.png" alt="AWS Cloud Quest: Cloud Practitioner" width="80" height="80">
   <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85">
   <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85">
