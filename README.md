@@ -12,7 +12,7 @@
 
 - 🌱  I'm on track for learning more about Artificial Intelligence, Application Development, and Cloud Architecture.
 
-- ✉️ How to reach me <a href="https://www.nirmalnaveen.me" target="_blank">Nirmal Naveen</a>
+- ✉️ How to reach me <a href="https://www.nirmalnaveen.me" target="_blank">Click here</a>
 
 - 💬 Ask me about **Web Development / Artificial Intelligence / Cloud Computing**
 
