@@ -31,7 +31,8 @@
 
 ## **🛠 Tech Stack**<br>
 
-<img width="40%" align="right" alt="Github Header" src="Images/code.gif" />
+<h3 align="center"><img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/code.gif" height="20"/> </h3>
+
 <div align="center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
