@@ -30,19 +30,6 @@
 </div>  
 
 ## **🛠 Tech Stack**<br>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-## **🥇Badges**<br>
-<p>
-  <a href="https://www.credly.com/earner/earned/badge/dc28650a-a006-430d-b26a-dde2a7c64aee" target="_blank"> <img src="Badges/googleitsupport.png" alt="googleitsupport" width="80" height="80"> </a>
-  <a href="https://www.credly.com/earner/earned/badge/81997ca8-f1a4-4a4a-830e-35854bde028e" target="_blank"> <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80"> 
-  <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80"> </a>
-  <a href="https://www.credly.com/earner/earned/badge/cee27b6d-df3d-4df7-9fa1-ee491d7a3e99" target="_blank"> <img src="Badges/aws-cloud-quest.png" alt="AWS Cloud Practitioner" width="80" height="80"> </a>
-  <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85">
-  <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85">
-  <img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="105" height="85">
-</p>
-
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
@@ -85,6 +72,19 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/></code>
 </div>
+
+## **🥇Badges**<br>
+<p>
+  <a href="https://www.credly.com/earner/earned/badge/dc28650a-a006-430d-b26a-dde2a7c64aee" target="_blank"> <img src="Badges/googleitsupport.png" alt="googleitsupport" width="80" height="80"> </a>
+  <a href="https://www.credly.com/earner/earned/badge/81997ca8-f1a4-4a4a-830e-35854bde028e" target="_blank"> <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80"> 
+  <img src="Badges/AWS-CloudPractitioner.png" alt="AWS-CloudPractitioner" width="80" height="80"> </a>
+  <a href="https://www.credly.com/earner/earned/badge/cee27b6d-df3d-4df7-9fa1-ee491d7a3e99" target="_blank"> <img src="Badges/aws-cloud-quest.png" alt="AWS Cloud Practitioner" width="80" height="80"> </a>
+  <img src="Badges/gcloudresources.png" alt="gcloudresources" width="105" height="85">
+  <img src="Badges/gcloud platform taska.png " alt="gcloud platform taska" width="105" height="85">
+  <img src="Badges/gcloudcloudenvironment.png" alt="gcloudcloudenvironment" width="105" height="85">
+</p>
+
+
 
 <!-- GitHub stats section -->
 
