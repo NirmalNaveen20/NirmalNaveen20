@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Nirmal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Nirmal<img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width="30px"></h1>
 <!--<h3 align="center">Full Stack Developer / Cloud Engineer</h3>-->
 
 
