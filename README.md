@@ -96,7 +96,9 @@
         <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NirmalNaveen20&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" height="192px" /></a>
 </p>
 
+<a href="https://github.com/jstrieb/github-stats">
 ![](https://github.com/NirmalNaveen20/NirmalNaveen20/blob/master/generated/overview.svg)
+</a>
 
 
 <img width="25%" align="right" alt="Github Header" src="Images/cloud.gif" />
