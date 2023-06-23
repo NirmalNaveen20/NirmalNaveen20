@@ -24,12 +24,9 @@
 <a href="https://linkedin.com/in/nirmal-naveen" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/nirmalnaveen" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://nirmalnaveen.medium.com" target="_blank">
+<img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white />
 </a>
-	<a href="https://nirmalnaveen.medium.com" target="_blank">
-		<img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white />
-	</a>
 </div>  
 
 ## **🛠 Tech Stack**<br>
