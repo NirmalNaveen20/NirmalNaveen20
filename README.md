@@ -6,7 +6,7 @@
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 💡 I am a strong believer in the power of positive thinking in the workplace.
 
 - 🎓  I'm currently studying Information Technology at University of <br>Sri Lanka Institute of Information Technology(SLIIT).
 
