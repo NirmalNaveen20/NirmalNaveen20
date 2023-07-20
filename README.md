@@ -28,7 +28,7 @@
 <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white />
 </a>
 <a href="https://www.buymeacoffee.com/nirmalnaveen" target="_blank">
-<img src="[https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)" >
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" >
 </a>
 </div>  
 
