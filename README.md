@@ -7,8 +7,9 @@
 <img width="40%" align="right" alt="Github Header" src="Images/dev-working_rounded.gif" />
 
 
+<div>
 <a href="https://app.daily.dev/nirmalnaveen"><img src="https://api.daily.dev/devcards/5c52b18f173e48b195ab99e9a938fcce.png?r=c2e" align="left" width="200" alt="Nirmal Naveen's Dev Card"/></a>
-<br/>
+</div>
 
 <!-- - 💡 I am a strong believer in the power of positive thinking in the workplace.
 
