@@ -6,6 +6,9 @@
 
 <img width="40%" align="right" alt="Github Header" src="Images/dev-working_rounded.gif" />
 
+
+<a href="https://app.daily.dev/nirmalnaveen"><img src="https://api.daily.dev/devcards/5c52b18f173e48b195ab99e9a938fcce.png?r=c2e" align="left" width="200" alt="Nirmal Naveen's Dev Card"/></a>
+
 <!-- - 💡 I am a strong believer in the power of positive thinking in the workplace.
 
 - 🎓  I'm currently studying Information Technology at University of <br>Sri Lanka Institute of Information Technology(SLIIT).
@@ -94,6 +97,5 @@
         <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NirmalNaveen20&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" height="192px" /></a>
 </p>
 
-<a href="https://app.daily.dev/nirmalnaveen"><img src="https://api.daily.dev/devcards/5c52b18f173e48b195ab99e9a938fcce.png?r=c2e" align="left" width="200" alt="Nirmal Naveen's Dev Card"/></a>
 
 <img width="25%" align="right" margin-bottom="5px" alt="Github Header" src="Images/cloud.gif" />
