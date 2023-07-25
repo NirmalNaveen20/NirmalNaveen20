@@ -70,7 +70,7 @@
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 </div>
 
-## **🥇Badges**<br>
+## **🥇Digital Badges**<br>
 <p>
   <a href="https://www.credly.com/earner/earned/badge/dc28650a-a006-430d-b26a-dde2a7c64aee" target="_blank"> <img src="Badges/googleitsupport.png" alt="googleitsupport" width="80" height="80"> </a>
   <a href="https://www.credly.com/earner/earned/badge/81997ca8-f1a4-4a4a-830e-35854bde028e" target="_blank"> <img src="Badges/azure-fundamentals.png" alt="Azure Fundamentals" width="80" height="80"> 
