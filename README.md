@@ -6,7 +6,7 @@
 
 <img width="40%" align="right" alt="Github Header" src="Images/dev-working_rounded.gif" />
 
-- 💡 I am a strong believer in the power of positive thinking in the workplace.
+<!-- - 💡 I am a strong believer in the power of positive thinking in the workplace.
 
 - 🎓  I'm currently studying Information Technology at University of <br>Sri Lanka Institute of Information Technology(SLIIT).
 
@@ -15,6 +15,7 @@
 - ✉️ How to reach me <a href="https://www.nirmalnaveen.me" target="_blank">Click here</a>
 
 - 💬 Ask me about **Web Development / DevOps / Cloud Computing**
+-->
 
 ## 🙌 Connect with me  
 <div align="center">
