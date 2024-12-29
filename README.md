@@ -7,13 +7,16 @@
 <!--<img width="40%" align="right" alt="Github Header" src="Images/dev-working_rounded.gif" />-->
 
 <img alt="Nirmal Chandrasiri" src="Images/header_image.png" />
+I am a passionate DevOps Engineer and aspiring Site Reliability Engineer (SRE) with a strong focus on cloud infrastructure, observability, and automation. I thrive on optimizing systems for reliability, scalability, and performance to bridge the gap between development and operations.
 
+<i>Always happy to help you grow your tech career through mentorship. Feel free to reach out if you want to chat about DevOps, SRE, cloud infrastructure, or career development!</i>
+<!--
 - 💡 I am a strong believer in the power of positive thinking in the workplace.
 
 - 🎓  I'm currently studying Information Technology at University of <br>Sri Lanka Institute of Information Technology(SLIIT).
 
 - 🌱  I'm on track for learning more about Artificial Intelligence, Application Development, and Cloud Architecture.
-
+-->
 
 
 ## More from me
