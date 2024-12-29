@@ -14,7 +14,6 @@
 
 - 🌱  I'm on track for learning more about Artificial Intelligence, Application Development, and Cloud Architecture.
 
-- ✉️ How to reach me <a href="https://www.nirmalnaveen.com" target="_blank">Click here</a>
 
 
 ## More from me
