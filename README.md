@@ -4,7 +4,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Talks+About+Software+Engineering;Talks+About+Cloud+Engineering;Tlaks+about+DevOps;Nice+to+meet+you...)](https://git.io/typing-svg) -->
 
-<img width="40%" align="right" alt="Github Header" src="Images/dev-working_rounded.gif" />
+<!--<img width="40%" align="right" alt="Github Header" src="Images/dev-working_rounded.gif" />-->
 
 
 - 💡 I am a strong believer in the power of positive thinking in the workplace.
