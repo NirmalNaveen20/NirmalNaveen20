@@ -86,8 +86,6 @@
 
 <!-- GitHub stats section -->
 
-## 📊 Github stats
-
 <!-- Bassed on: https://github.com/NirmalNaveen20/ -->
 <p align="center">
   <br/>
