@@ -6,6 +6,7 @@
 
 <!--<img width="40%" align="right" alt="Github Header" src="Images/dev-working_rounded.gif" />-->
 
+<img alt="Nirmal Chandrasiri" src="Images/header_image.png" />
 
 - 💡 I am a strong believer in the power of positive thinking in the workplace.
 
