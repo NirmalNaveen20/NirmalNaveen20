@@ -19,7 +19,7 @@
 -->
 
 
-## More from me
+## Connect with Me
 <div align="center">
 <a href="https://linkedin.com/in/nirmal-naveen" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -33,7 +33,6 @@
 
 <!-- GitHub stats section -->
 
-<!-- Bassed on: https://github.com/NirmalNaveen20/ -->
 <p align="center">
   <br/>
         <a href="https://github.com/NirmalNaveen20/NirmalNaveen20"><img alt="NirmalNaveen20 Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NirmalNaveen20&show_icons=true&count_private=true" height="192px" /></a>
