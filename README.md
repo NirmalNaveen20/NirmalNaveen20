@@ -6,7 +6,7 @@
 
 <!--<img width="40%" align="right" alt="Github Header" src="Images/dev-working_rounded.gif" />-->
 
-<img alt="Nirmal Chandrasiri" src="Images/header_image.png" />
+<!--<img alt="Nirmal Chandrasiri" src="Images/header_image.png" />-->
 <p>I am a passionate DevOps Engineer and aspiring Site Reliability Engineer (SRE) with a strong focus on cloud infrastructure, observability, and automation. I thrive on optimizing systems for reliability, scalability, and performance to bridge the gap between development and operations.</p>
 
 <i>Always happy to help you grow your tech career through mentorship. Feel free to reach out if you want to chat about DevOps, SRE, cloud infrastructure, or career development!</i>
