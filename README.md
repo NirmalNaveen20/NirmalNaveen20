@@ -35,10 +35,10 @@
 
 | My GitHub Statistics | Top Languages |
 | --- | --- |
-| ![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api/?username=NirmalNaveen20&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000) | ![Thomas' Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalNaveen20&layout=compact&theme=radical)
+| ![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api/?username=NirmalNaveen20&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000) | ![Thomas' Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalNaveen20&layout=compact&theme=radical)
 <div>
   
-<a href="https://app.daily.dev/nirmalnaveen"><img src="https://api.daily.dev/devcards/5c52b18f173e48b195ab99e9a938fcce.png?r=c2e" align="left" width="200" alt="Nirmal Naveen's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/nirmalnaveen"><img src="https://api.daily.dev/devcards/5c52b18f173e48b195ab99e9a938fcce.png?r=c2e" align="left" width="200" alt="Nirmal Naveen's Dev Card"/></a> -->
 </div>
 
 <img width="25%" align="right" margin-bottom="5px" alt="Github Header" src="Images/cloud.gif" />
